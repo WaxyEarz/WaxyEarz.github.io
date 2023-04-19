@@ -1,0 +1,4 @@
+Sitemap: https://waxyEars.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: waxyEars.github.io
